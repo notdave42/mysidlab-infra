@@ -9,5 +9,6 @@
   
   - debug:
      msg: "This is a test"
-     
+  
+  - shell: "ping www.google.com"
      
