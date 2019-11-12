@@ -1,1 +1,13 @@
+---
 
+- name: Create a sandbox instance
+  hosts: all
+  gather_facts: False
+  vars:
+
+  tasks:
+  
+  - debug:
+     msg: "This is a test"
+     
+     
